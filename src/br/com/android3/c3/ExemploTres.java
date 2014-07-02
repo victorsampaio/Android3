@@ -24,6 +24,7 @@ public class ExemploTres extends Activity{
 		ImageView img2 =(ImageView) findViewById(R.id.imagem2);
 		img2.setImageResource(R.drawable.smile2);
 		
+		
 	}
 
 }
