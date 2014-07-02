@@ -4,10 +4,11 @@
     android:layout_height="match_parent"
     android:orientation="vertical" >
     
-    <TextView 
+    <TextView
         android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:text="Este é o seu segundo exemplo no Android"
-        />
+        android:layout_height="wrap_content"
+        android:text="Este é o seu segundo exemplo no Android" />
+    
+    
 
 </LinearLayout>
